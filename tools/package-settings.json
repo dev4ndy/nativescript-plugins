@@ -1,0 +1,16 @@
+{
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev4ndy/nativescript-plugins.git"
+  },
+  "keywords": ["NativeScript", "JavaScript", "TypeScript", "iOS", "Android"],
+  "author": {
+    "name": "Andres Echeverri",
+    "email": "andrex.125d@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/dev4ndy/nativescript-plugins/issues"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/dev4ndy/nativescript-plugins"
+}
